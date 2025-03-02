@@ -1,0 +1,16 @@
+numpy
+soundfile
+tqdm
+torch
+spicy
+librosa
+praat-textgrids
+jiwer
+unidecode
+matplotlib
+absl-py
+openai-whisper
+waveglow
+noisereduce
+
+

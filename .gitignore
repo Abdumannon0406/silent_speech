@@ -1,7 +1,8 @@
-.vscode/
-__pycache__/
+venv/
 emg_data/
+hifigan_finetuned/
+hifi-gan/
 models/
-deepspeech-0.7.0-models.pbmm
-deepspeech-0.7.0-models.scorer
-lm.binary
+evaluation_output/
+__pycache__/
+.vscode/

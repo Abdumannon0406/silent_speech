@@ -5,7 +5,7 @@ import numpy as np
 
 import torch
 
-sys.path.append('./hifi_gan')
+sys.path.append('hifi-gan')
 from env import AttrDict
 from models import Generator
 
